@@ -1,0 +1,7 @@
+{
+  "name": "Global Flag Master: Three-Tier Quest",
+  "description": "An advanced flag identification game featuring adaptive difficulty across 10 levels, tiered scoring for names, capitals, and currencies, and a high-stakes Blitz mode.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
